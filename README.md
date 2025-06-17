@@ -1,4 +1,5 @@
 # Note Computer Science
 
-[이곳](https://github.com/DOforTU/note-cs)으로 이전
+## [Machine Learning](https://github.com/DOforTU/note-cs/tree/main/Machine%20Learning)
 
+## [Deep Learning](https://github.com/DOforTU/note-cs/tree/main/Machine%20Learning/Deep%20Learning)
